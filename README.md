@@ -47,7 +47,7 @@ A quiz website.
 | Database           | MongoDB             |
 | Cloud / Deployment | Render              |
 
-**[🌐 Live Demo](https://quizflow-frontend-9ieb.onrender.com/)** · **[💻 Code](https://github.com/yashvardhanmishra79-commits/QuizFlow-Mern)**
+[**🌐 Live Demo**](https://quizflow-frontend-9ieb.onrender.com/) · [**💻 Code**](https://github.com/yashvardhanmishra79-commits/QuizFlow-Mern)
 
 ## 🛠️ Tech Stack
 
@@ -84,27 +84,11 @@ const mindset = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=yashvardhanmishra79-commits&background=FAF9FF&border=E9D5FF&stroke=E9D5FF&ring=8B5CF6&fire=A78BFA&currStreakNum=1E1B2E&sideNums=1E1B2E&currStreakLabel=8B5CF6&sideLabels=6B6478&dates=6B6478" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashvardhanmishra79-commits&background=FAF9FF&border=E9D5FF&stroke=E9D5FF&ring=8B5CF6&fire=A78BFA&currStreakNum=1E1B2E&sideNums=1E1B2E&currStreakLabel=8B5CF6&sideLabels=6B6478&dates=6B6478" alt="GitHub contribution streak" />
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashvardhanmishra79-commits&theme=flat&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10" alt="GitHub trophies" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvardhanmishra79-commits&custom_title=Contribution%20Activity&bg_color=FAF9FF&color=6B6478&line=8B5CF6&point=A78BFA&area=true&area_color=C4B5FD&title_color=8B5CF6&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-
-</div>
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
