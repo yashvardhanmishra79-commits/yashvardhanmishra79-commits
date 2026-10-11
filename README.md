@@ -57,7 +57,8 @@ A MERN web application for posting and discovering lost or found items, with use
 | Frontend | <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" /> |
 | Backend | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" alt="Node.js and Express.js" /> |
 | Database | <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" /> |
-| Developer Tools | <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="Visual Studio Code" /> |
+| AI Tools | <img src="https://img.shields.io/badge/Claude%20AI-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI with Anthropic logo" height="28" /> <img src="https://img.shields.io/badge/ChatGPT-A78BFA?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT with OpenAI logo" height="28" /> |
+| Developer Tools | <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity with Google logo" height="28" /> |
 
 ## 🧠 Mindset
 
