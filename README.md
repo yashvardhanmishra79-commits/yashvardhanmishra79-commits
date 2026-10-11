@@ -58,8 +58,8 @@ A quiz website.
 | Frontend        | <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" /> |
 | Backend         | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" alt="Node.js and Express.js" /> |
 | Database        | <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" /> |
-| AI Tools        | <img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" alt="ChatGPT logo" width="32" height="32" /> <img src="https://static.vecteezy.com/system/resources/thumbnails/067/941/712/small_2x/claude-ai-logo-rounded-hd-free-png.png" alt="Claude logo" width="32" height="32" /> |
-| Developer Tools | <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /> <img src="https://www.searchyour.ai/archivos/antigravity-google-ai-logo.jpg" alt="Google Antigravity logo" width="32" height="32" /> |
+| AI Tools        | <img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" alt="ChatGPT logo" width="64" height="64" /> <img src="https://static.vecteezy.com/system/resources/thumbnails/067/941/712/small_2x/claude-ai-logo-rounded-hd-free-png.png" alt="Claude logo" width="64" height="64" /> |
+| Developer Tools | <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /> <img src="https://www.searchyour.ai/archivos/antigravity-google-ai-logo.jpg" alt="Google Antigravity logo" width="64" height="64" /> |
 
 ## 🧠 Mindset
 
