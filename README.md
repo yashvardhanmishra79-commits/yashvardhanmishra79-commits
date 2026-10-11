@@ -58,8 +58,8 @@ A quiz website.
 | Frontend        | <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" /> |
 | Backend         | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" alt="Node.js and Express.js" /> |
 | Database        | <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" /> |
-| AI Tools        | <img src="https://cdn.simpleicons.org/anthropic/8B5CF6" width="20" height="20" alt="Anthropic logo" /> <img src="https://img.shields.io/badge/Claude%20AI-8B5CF6?style=for-the-badge" alt="Claude AI" height="28" /> <img src="https://cdn.simpleicons.org/openai/8B5CF6" width="20" height="20" alt="OpenAI logo" /> <img src="https://img.shields.io/badge/ChatGPT-A78BFA?style=for-the-badge" alt="ChatGPT" height="28" /> |
-| Developer Tools | <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /> <img src="https://cdn.simpleicons.org/google/8B5CF6" width="20" height="20" alt="Google logo" /> <img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge" alt="Antigravity" height="28" /> |
+| AI Tools        | <img src="https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI logo" height="28" /> <img src="https://img.shields.io/badge/-A78BFA?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT logo" height="28" /> |
+| Developer Tools | <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /> <img src="https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity logo" height="28" /> |
 
 ## 🧠 Mindset
 
