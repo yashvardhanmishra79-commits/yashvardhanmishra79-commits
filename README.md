@@ -58,8 +58,8 @@ A quiz website.
 | Frontend        | <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" /> |
 | Backend         | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" alt="Node.js and Express.js" /> |
 | Database        | <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" /> |
-| AI Tools        | <img src="https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI logo" height="28" /> <img src="https://img.shields.io/badge/-A78BFA?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT logo" height="28" /> |
-| Developer Tools | <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /> <img src="https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity logo" height="28" /> |
+| AI Tools        | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/anthropic.svg" alt="Anthropic logo" width="32" height="32" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" alt="OpenAI logo" width="32" height="32" /> |
+| Developer Tools | <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /> <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Google Antigravity logo" width="32" height="32" /> |
 
 ## 🧠 Mindset
 
