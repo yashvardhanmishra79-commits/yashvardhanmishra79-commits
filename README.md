@@ -58,7 +58,7 @@ A quiz website.
 | Frontend        | <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" /> |
 | Backend         | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" alt="Node.js and Express.js" /> |
 | Database        | <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" /> |
-| AI Tools        | <img src="https://cdn.simpleicons.org/anthropic" alt="Anthropic logo" width="32" height="32" /> <img src="https://cdn.simpleicons.org/openai" alt="OpenAI logo" width="32" height="32" /> |
+| AI Tools        | <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/anthropic/default.svg" alt="Anthropic logo" width="32" height="32" /> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" alt="OpenAI logo" width="32" height="32" /> |
 | Developer Tools | <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /> <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Google Antigravity logo" width="32" height="32" /> |
 
 ## 🧠 Mindset
