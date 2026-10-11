@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-Job%20%26%20Freelance%20in%20MERN%20Stack-8B5CF6?style=for-the-badge&labelColor=A78BFA" alt="Open to work: job and freelance in MERN stack" />
 
-<img src="https://komarev.com/ghpvc/?username=yashvardhanmishra79-commits&label=Profile%20Views&color=8B5CF6&labelColor=A78BFA&style=for-the-badge" alt="Profile views" />
+<img src="https://viewcounter.live/yashvardhanmishra79-commits?label=Profile%20Views&bg_color=8B5CF6&text_color=FFFFFF&rounded=true" alt="Profile views" />
 <a href="https://github.com/yashvardhanmishra79-commits?tab=followers"><img src="https://img.shields.io/github/followers/yashvardhanmishra79-commits?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=A78BFA&logo=github&logoColor=white" alt="GitHub followers" /></a>
 
 </div>
