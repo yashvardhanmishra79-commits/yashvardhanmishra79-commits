@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-Job%20%26%20Freelance%20in%20MERN%20Stack-8B5CF6?style=for-the-badge&labelColor=A78BFA" alt="Open to work: job and freelance in MERN stack" />
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yashvardhanmishra79-commits.yashvardhanmishra79-commits&left_color=A78BFA&right_color=8B5CF6" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yashvardhanmishra79-commits.yashvardhanmishra79-commits&left_text=Profile%20Views&left_color=A78BFA&right_color=8B5CF6&height=28&radius=3" alt="Profile views" />
 <a href="https://github.com/yashvardhanmishra79-commits?tab=followers"><img src="https://img.shields.io/github/followers/yashvardhanmishra79-commits?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=A78BFA&logo=github&logoColor=white" alt="GitHub followers" /></a>
 
 </div>
